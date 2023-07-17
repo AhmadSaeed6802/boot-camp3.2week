@@ -1,0 +1,14 @@
+C:\Users\4890\source\repos\project 2  task2 v4 l\project 2  task2 v4 l\bin\Debug\project 2  task2 v4 l.exe.config
+C:\Users\4890\source\repos\project 2  task2 v4 l\project 2  task2 v4 l\bin\Debug\project 2  task2 v4 l.exe
+C:\Users\4890\source\repos\project 2  task2 v4 l\project 2  task2 v4 l\bin\Debug\project 2  task2 v4 l.pdb
+C:\Users\4890\source\repos\project 2  task2 v4 l\project 2  task2 v4 l\obj\Debug\project 2  task2 v4 l.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\project 2  task2 v4 l\project 2  task2 v4 l\obj\Debug\project 2  task2 v4 l.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\project 2  task2 v4 l\project 2  task2 v4 l\obj\Debug\project 2  task2 v4 l.exe
+C:\Users\4890\source\repos\project 2  task2 v4 l\project 2  task2 v4 l\obj\Debug\project 2  task2 v4 l.pdb
+C:\Users\4890\source\repos\project 2 task 2 v4 Bank Management system\project 2  task2 v4 l\bin\Debug\project 2  task2 v4 l.exe.config
+C:\Users\4890\source\repos\project 2 task 2 v4 Bank Management system\project 2  task2 v4 l\bin\Debug\project 2  task2 v4 l.exe
+C:\Users\4890\source\repos\project 2 task 2 v4 Bank Management system\project 2  task2 v4 l\bin\Debug\project 2  task2 v4 l.pdb
+C:\Users\4890\source\repos\project 2 task 2 v4 Bank Management system\project 2  task2 v4 l\obj\Debug\project 2  task2 v4 l.csproj.AssemblyReference.cache
+C:\Users\4890\source\repos\project 2 task 2 v4 Bank Management system\project 2  task2 v4 l\obj\Debug\project 2  task2 v4 l.csproj.CoreCompileInputs.cache
+C:\Users\4890\source\repos\project 2 task 2 v4 Bank Management system\project 2  task2 v4 l\obj\Debug\project 2  task2 v4 l.exe
+C:\Users\4890\source\repos\project 2 task 2 v4 Bank Management system\project 2  task2 v4 l\obj\Debug\project 2  task2 v4 l.pdb
